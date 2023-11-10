@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c60dcee3.css",
-    "main.js": "/static/js/main.3bf89a5e.js",
+    "main.css": "/static/css/main.5b218509.css",
+    "main.js": "/static/js/main.001d53e4.js",
     "static/media/hero1.png": "/static/media/hero1.1240af4cea7bfb7798fb.png",
     "static/media/razors.png": "/static/media/razors.44531e9569349c8be10f.png",
     "static/media/iptv.png": "/static/media/iptv.ea5d6b47f9a53a0b7813.png",
     "static/media/Marrakech_hotel.png": "/static/media/Marrakech_hotel.06f8c526f031dd869c61.png",
     "index.html": "/index.html",
-    "main.c60dcee3.css.map": "/static/css/main.c60dcee3.css.map",
-    "main.3bf89a5e.js.map": "/static/js/main.3bf89a5e.js.map"
+    "main.5b218509.css.map": "/static/css/main.5b218509.css.map",
+    "main.001d53e4.js.map": "/static/js/main.001d53e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.c60dcee3.css",
-    "static/js/main.3bf89a5e.js"
+    "static/css/main.5b218509.css",
+    "static/js/main.001d53e4.js"
   ]
 }
